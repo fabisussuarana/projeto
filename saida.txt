@@ -1,0 +1,43 @@
+fabisussuarana (6):
+      Envio da primeira página!
+      Tornando a página mais estilosa
+      index.html com nova linha
+      adicionei uma tabela com texto no index.html
+      Adicionando uma imagem a página
+      deletei a imagem da página e da pasta onde estava
+
+commit e7c385fc0038add8a503bca804932571e1431d97
+Author: fabisussuarana <106176566+fabisussuarana@users.noreply.github.com>
+Date:   Fri Aug 5 14:59:13 2022 -0500
+
+    deletei a imagem da página e da pasta onde estava
+
+commit b813d875f081f393cac02f1dc2f768fc16f34eb9
+Author: fabisussuarana <106176566+fabisussuarana@users.noreply.github.com>
+Date:   Fri Aug 5 14:56:39 2022 -0500
+
+    Adicionando uma imagem a página
+
+commit 64f82e35d6dd80af0eab35cbd8253fa7b4cc4ca5
+Author: fabisussuarana <106176566+fabisussuarana@users.noreply.github.com>
+Date:   Fri Aug 5 14:11:53 2022 -0500
+
+    adicionei uma tabela com texto no index.html
+
+commit 5a35b131e5649b91eefc2f832938b92f04b11050
+Author: fabisussuarana <106176566+fabisussuarana@users.noreply.github.com>
+Date:   Fri Aug 5 13:53:22 2022 -0500
+
+    index.html com nova linha
+
+commit 24bff8e2e3668ceb9a7dcfde91aa81c66d026175
+Author: fabisussuarana <106176566+fabisussuarana@users.noreply.github.com>
+Date:   Fri Aug 5 13:49:54 2022 -0500
+
+    Tornando a página mais estilosa
+
+commit 3df8757f3707cdcc70526d65b9d97b8a4b74eba1
+Author: fabisussuarana <106176566+fabisussuarana@users.noreply.github.com>
+Date:   Fri Aug 5 13:36:19 2022 -0500
+
+    Envio da primeira página!
